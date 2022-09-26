@@ -1,2 +1,2 @@
 # Curso JS - Curso em Vídeo
-* Repositório com todo conteúdo praticado durante o curso!
+* Repositório com todo conteúdo praticado durante as aulas!
